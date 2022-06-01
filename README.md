@@ -10,4 +10,4 @@ Thanks to [RickDangerous.co.uk](http://www.rickdangerous.co.uk/graphics.htm) for
 
 See an [example level](https://twitter.com/dercetech/status/1315233303335628800) made for a Phaser rewrite of Rick2.
 
-REM: that project was shelved as no agreement could be obtained with the owner of the IP.
+REM: the port/rewrite was shelved as no agreement could be obtained with the owner of the IP.
